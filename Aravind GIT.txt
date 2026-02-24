@@ -1,0 +1,19 @@
+GitHub
+
+1.Create Resprotiary
+2.Create a folder
+3.Cloune through tortoise (or) Command prompt
+4.Changes in the documents
+5.Command Prompt
+6.Check the GIT Status
+7.Add Git- GIT add .
+8.Commit the GIT - GIT Commit -M "Changes need to be update"
+9.Push the Git - GIT Push and add the Link
+
+ 
+
+
+bskjbjabdjkb
+sjkbjkcbjk
+jasbjkbkj
+hdgdk
